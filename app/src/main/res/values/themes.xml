@@ -3,7 +3,11 @@
     <style name="Base.Theme.DashBoardExample" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/green</item>
+        <item name="colorPrimaryDark">@color/green</item>
     </style>
 
     <style name="Theme.DashBoardExample" parent="Base.Theme.DashBoardExample" />
+
 </resources>
